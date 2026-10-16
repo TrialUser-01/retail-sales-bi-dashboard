@@ -63,6 +63,6 @@ Prepared as an educational data analytics project.
 The dataset is included in this repository as `retail_sales_dataset.csv`.
 After uploading the project to GitHub, replace the placeholder below with the CSV's actual **Raw** GitHub URL so the dataset link is directly accessible:
 
-`[Dataset CSV link](PASTE_YOUR_GITHUB_RAW_CSV_URL_HERE)`
+`https://raw.githubusercontent.com/TrialUser-01/retail-sales-bi-dashboard/refs/heads/main/retail_sales_dataset.csv`
 
 Note: this is a project-specific simulated dataset created for demonstration and analysis; it is not real company data.
